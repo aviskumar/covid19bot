@@ -16,3 +16,4 @@ urllib3>=1.25.8
 tweepy>=3.9.0
 requests>=2.23.0
 pytz>=2020.1
+pandas
