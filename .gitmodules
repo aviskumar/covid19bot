@@ -1,0 +1,4 @@
+[submodule "covid19indiatracker_bot"]
+	path = covid19indiatracker_bot
+	url = https://github.com/aviskumar/covid19indiatracker_bot.git
+	branch = master
