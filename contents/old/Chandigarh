@@ -260,11 +260,11 @@
 <div class="row about-container m-auto width-90">
 <div class="col-lg-6 col-md-6 form-group">
 <div id="chartContainer2" style="height: 400px; width: 100%;"></div>
-<p style="height: 10px;margin-top: -12px;background: white;z-index: 9999999999;position: absolute;width: 80%;"></p>
+<p style="height: 10px;margin-top: -12px;background: white;z-index: 9;position: absolute;width: 80px;"></p>
 </div>
 <div class="col-lg-6 col-md-6 form-group" style="background: #001F3E;padding: 10px 3%;">
 <div id="chartContainer" style="height: 400px; width: 95%;"></div>
-<p style="height: 10px;margin-top: -10px;background: #001F3E;z-index: 9999999999;position: absolute;width: 56px;"></p>
+<p style="height: 10px;margin-top: -10px;background: #001F3E;z-index: 9;position: absolute;width: 56px;"></p>
 </div>
 </div>
 <div class="row about-container m-auto width-90">
@@ -940,7 +940,7 @@ stdClass Object
 
         )
 
-    [lastRefreshed] =&gt; 2022-02-08T11:04:20.593Z
+    [lastRefreshed] =&gt; 2022-02-08T11:21:20.849Z
     [lastOriginUpdate] =&gt; 2022-02-08T02:30:00.000Z
 )
 
