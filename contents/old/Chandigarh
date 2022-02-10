@@ -337,37 +337,37 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Confirmed</div>
-<div class="card-body">89144</div>
+<div class="card-body">91019</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-primary text-white text-center">
 <div class="card-header">Recovered</div>
-<div class="card-body">84574</div>
+<div class="card-body">88864</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-danger text-white text-center">
 <div class="card-header">Deaths</div>
-<div class="card-body">1118</div>
+<div class="card-body">1144</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-danger text-white text-center">
 <div class="card-header">Total Sampled</div>
-<div class="card-body">1000870</div>
+<div class="card-body">1034610</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-primary text-white text-center">
 <div class="card-header">Positive Cases</div>
-<div class="card-body">909983</div>
+<div class="card-body">91019</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Negative Cases</div>
-<div class="card-body">897434</div>
+<div class="card-body">88864</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
@@ -387,7 +387,7 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <div class="row">
 <div class="col-md-12 form-group pt-10 mb-0">
 <div class="card bg-success text-white mb-10 plr-10">
-<div class="card-body ptb-10 text-center">Home Quarantined :  161479</div>
+<div class="card-body ptb-10 text-center">Home Quarantined :  161556</div>
 </div>
 <div class="col-12 text-center">* Statistics sourced from Municipal Corporation, Chandigarh</div>
 </div>
@@ -940,7 +940,7 @@ stdClass Object
 
         )
 
-    [lastRefreshed] =&gt; 2022-02-10T11:47:20.064Z
+    [lastRefreshed] =&gt; 2022-02-10T12:21:19.983Z
     [lastOriginUpdate] =&gt; 2022-02-10T02:30:00.000Z
 )
 
