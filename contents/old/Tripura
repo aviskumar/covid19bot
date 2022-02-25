@@ -28,7 +28,7 @@
 </head>
 <body>
 <form action="./" id="form1" method="post">
-<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="g9xGmGrrzm1My2pyQ2RGBeBcuNsIl2pGfTJY73vHPlv4p4CET73KIYk75LC568kv4Avxq3FQuiM48s3L7noNnBKPxWzuZeFsjshbQhT7cnUEsH4HqJqQ6BXB/lkWJtnbto3/jLlxA8CVK56nXUYUegS187Ze5hQrus8jzqFpqgcbr/SknPc9eXB1C2ZrETbl57dhMVMlae4jTOpy+a9n0YLtQ6Zvals+A95PtJu/M9LUkRi/S/Kx7jIPg5nOm130"/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="JT+/r1tSMmTbI2bOiowbrjA3LfA1Eg8kn/i+nKv3olBbWimMREjXPRqX6O/VHjPoJtR5PCfKaLlx1sxRJ8Q9gbyZaOf5gvrtL1NXqlrRqCP3PrjvwRm2yT5eextMiGwjaYOe9FCgCSs+DooQPPs0WkM/6zyFN4/rZbnBaLawI51rl7gqtpnYfiEFPk+Myec3MbdcMiVi8GbnRJBu0XfUomuVKtsWtIQ0c0j5nVXCRXCnud/IAKdWlvfmQ9oGk6sg"/>
 <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
 <!-------------------------------------------->
 <div class="modal fade" id="myModal">
@@ -364,7 +364,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
 <span id="lblStatsAsPerDate">24 Feb 2022</span></strong><br/>
 <span>You are Visitor Number: </span>
 <strong>
-<span id="lblVisitorNumber">2042157</span></strong>
+<span id="lblVisitorNumber">2042322</span></strong>
 </div>
 <div class="col-lg-12">
 <small class="text-white">All COVID-19 related Data &amp; Statistics on this site, are being being Provided &amp; Managed by the Health Department, Government of Tripura.</small><br/>
