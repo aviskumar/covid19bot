@@ -337,43 +337,43 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Confirmed</div>
-<div class="card-body">91019</div>
+<div class="card-body">91740</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-primary text-white text-center">
 <div class="card-header">Recovered</div>
-<div class="card-body">88864</div>
+<div class="card-body">90420</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-danger text-white text-center">
 <div class="card-header">Deaths</div>
-<div class="card-body">1144</div>
+<div class="card-body">1165</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-danger text-white text-center">
 <div class="card-header">Total Sampled</div>
-<div class="card-body">1034610</div>
+<div class="card-body">1071094</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-primary text-white text-center">
 <div class="card-header">Positive Cases</div>
-<div class="card-body">91019</div>
+<div class="card-body">91740</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Negative Cases</div>
-<div class="card-body">88864</div>
+<div class="card-body">977610</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Rejected Samples</div>
-<div class="card-body">1743</div>
+<div class="card-body">1744</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
@@ -387,7 +387,7 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <div class="row">
 <div class="col-md-12 form-group pt-10 mb-0">
 <div class="card bg-success text-white mb-10 plr-10">
-<div class="card-body ptb-10 text-center">Home Quarantined :  162038</div>
+<div class="card-body ptb-10 text-center">Home Quarantined :  162269</div>
 </div>
 <div class="col-12 text-center">* Statistics sourced from Municipal Corporation, Chandigarh</div>
 </div>
@@ -940,7 +940,7 @@ stdClass Object
 
         )
 
-    [lastRefreshed] =&gt; 2022-03-02T11:47:22.264Z
+    [lastRefreshed] =&gt; 2022-03-02T12:21:21.190Z
     [lastOriginUpdate] =&gt; 2022-03-02T02:30:00.000Z
 )
 
