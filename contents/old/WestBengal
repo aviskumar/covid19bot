@@ -438,44 +438,44 @@ setInterval(GetClock,1000);
 <div class="sidebarmenu" style="border: 1px solid #eee; width:189px; background-color:#EEEEEE; float:left; text-align:left;">
 <div id="online" style="background-color: #000; color: #fff;padding: 10px 3px 10px 10px;"><strong>E-GOVERNANCE : </strong><span id="txtHint"></span></div>
 <div id="online" style="max-height:635px;overflow:auto;">
-<li><a class="arrow" href="http://exchange.wbhealth.gov.in:8032">EXCHANGE</a></li>
-<li><a class="arrow" href=" http://pcpndt.silpasathi.in/aspx/signin.aspx">Online PCPNDT License</a></li>
-<li><a class="arrow" href=" http://bloodbank.silpasathi.in/aspx/signin.aspx">Online Blood Bank License</a></li>
-<li><a class="arrow" href="https://drswb.wbhealth.gov.in/">Store Management Information System</a></li>
-<li><a class="arrow" href="javascript:;">Hospital Management Information System</a></li>
-<li><a class="arrow" href="http://rotto.wbhealth.gov.in:6001">Organ Transplant Registration</a></li>
-<li><a class="arrow" href="http://40.81.75.47:8002/">Dengue Surveillance System</a></li>
-<li><a class="arrow" href="http://application.wbhealth.gov.in/Requisition/">Health Infrastructure Plan Monitoring System</a></li>
-<li><a class="arrow" href="https://onlinehmis.wbhealth.gov.in">OPD Ticket Booking</a></li>
-<li><a class="arrow" href="https://ccu.wbhealth.gov.in">CCU</a></li>
-<li><a class="arrow" href="javascript:;">Transport Management System</a></li>
-<li><a class="arrow" href="https://drswb.wbhealth.gov.in/vendorportal/vendorlogin.aspx">Vendor Portal</a></li>
-<li><a class="arrow" href="https://crs.wb.gov.in/">Birth and Death Registration</a></li>
-<li><a class="arrow" href="http://sms.wbhealth.gov.in/">Scheme Monitoring System</a></li>
-<li><a class="arrow" href="http://rbsk.wbhealth.gov.in:8083/ ">RBSK</a></li>
-<li><a class="arrow" href="http://125.22.76.14:2026/">Pharmacy Admission 2019</a></li>
-<li><a class="arrow" href="http://fps.wbhealth.gov.in/">Fair Price System</a></li>
-<li><a class="arrow" href="http://hr.wbhealth.gov.in:8888">Online Recruitment</a></li>
-<li><a class="arrow" href="https://ce.wbhealth.gov.in/WBDHFW/">Clinical Establishment</a></li>
-<li><a class="arrow" href="http://frnvst.wbhealth.gov.in:89/ ">Apply for Foreign Visit (WBHS/WBMES/WBNS)</a></li>
-<li><a class="arrow" href="https://evesoj.wbhealth.gov.in/WBDL">E Vesoj (Drug License)</a></li>
-<li><a class="arrow" href="http://application.wbhealth.gov.in:8383/ ">MCCD</a></li>
-<li><a class="arrow" href="http://164.164.119.162:8090/">USG Clinic Information</a></li>
-<li><a class="arrow" href="http://application.wbhealth.gov.in:8282/">Know Your Faculty WBMES</a></li>
-<li><a class="arrow" href="https://202.61.117.98/IndexSAM.aspx">SAM Children</a></li>
-<li><a class="arrow" href="http://egiyebangla.online">Matrimaa</a></li>
-<li><a class="arrow" href="https://www.wbhealth.gov.in/JeevanShaktiOnline.html">Jeevan Shakti Online</a></li>
-<li><a class="arrow" href="http://www.wbnrhm.in">GIS based Informaion</a></li>
-<li><a class="arrow" href="http://14.139.216.50">HRMIS</a></li>
-<li><a class="arrow" href="https://ccm.wbhealth.gov.in/">Court Case Monitoring</a></li>
-<li><a class="arrow" href="http://pgms.wbhealth.gov.in">PGMS (Public Grievance Monitoring System)</a></li>
-<li><a class="arrow" href="http://nursetrns.wbhealth.gov.in:8006/">Nursing Services</a></li>
-<li><a class="arrow" href="http://skms.wbhealth.gov.in:8010/">Suswasthya Management System</a></li>
-<li><a class="arrow" href="http://kyd.wbhealth.gov.in:8181/">Know Your Doctor</a></li>
-<li><a class="arrow" href="https://ce.wbhealth.gov.in/kpi">Key Performance Indicator (KPI)</a></li>
-<li><a class="arrow" href="http://mdsr.wbhealth.gov.in:6006/">Maternal Death Surveillance &amp; Response </a></li>
-<li><a class="arrow" href="http://vvd.wbhealth.gov.in:8080/">Vector Borne Disease Monitoring System</a></li>
-<li><a class="arrow" href="http://kyas.wbhealth.gov.in:8182/">Know Your Officer (Non Medical)</a></li>
+<li><a class="arrow" href="http://exchange.wbhealth.gov.in:8032">EXCHANGE</a> </li>
+<li><a class="arrow" href=" http://pcpndt.silpasathi.in/aspx/signin.aspx">Online PCPNDT License</a> </li>
+<li><a class="arrow" href=" http://bloodbank.silpasathi.in/aspx/signin.aspx">Online Blood Bank License</a> </li>
+<li><a class="arrow" href="https://drswb.wbhealth.gov.in/">Store Management Information System</a> </li>
+<li><a class="arrow" href="javascript:;">Hospital Management Information System</a> </li>
+<li><a class="arrow" href="http://rotto.wbhealth.gov.in:6001">Organ Transplant Registration</a> </li>
+<li><a class="arrow" href="http://40.81.75.47:8002/">Dengue Surveillance System</a> </li>
+<li><a class="arrow" href="http://application.wbhealth.gov.in/Requisition/">Health Infrastructure Plan Monitoring System</a> </li>
+<li><a class="arrow" href="https://onlinehmis.wbhealth.gov.in">OPD Ticket Booking</a> </li>
+<li><a class="arrow" href="https://ccu.wbhealth.gov.in">CCU</a> </li>
+<li><a class="arrow" href="javascript:;">Transport Management System</a> </li>
+<li><a class="arrow" href="https://drswb.wbhealth.gov.in/vendorportal/vendorlogin.aspx">Vendor Portal</a> </li>
+<li><a class="arrow" href="https://crs.wb.gov.in/">Birth and Death Registration</a> </li>
+<li><a class="arrow" href="http://sms.wbhealth.gov.in/">Scheme Monitoring System</a> </li>
+<li><a class="arrow" href="http://rbsk.wbhealth.gov.in:8083/ ">RBSK</a> </li>
+<li><a class="arrow" href="http://125.22.76.14:2026/">Pharmacy Admission 2019</a> </li>
+<li><a class="arrow" href="http://fps.wbhealth.gov.in/">Fair Price System</a> </li>
+<li><a class="arrow" href="http://hr.wbhealth.gov.in:8888">Online Recruitment</a> </li>
+<li><a class="arrow" href="https://ce.wbhealth.gov.in/WBDHFW/">Clinical Establishment</a> </li>
+<li><a class="arrow" href="http://frnvst.wbhealth.gov.in:89/ ">Apply for Foreign Visit (WBHS/WBMES/WBNS)</a> </li>
+<li><a class="arrow" href="https://evesoj.wbhealth.gov.in/WBDL">E Vesoj (Drug License)</a> </li>
+<li><a class="arrow" href="http://application.wbhealth.gov.in:8383/ ">MCCD</a> </li>
+<li><a class="arrow" href="http://164.164.119.162:8090/">USG Clinic Information</a> </li>
+<li><a class="arrow" href="http://application.wbhealth.gov.in:8282/">Know Your Faculty WBMES</a> </li>
+<li><a class="arrow" href="https://202.61.117.98/IndexSAM.aspx">SAM Children</a> </li>
+<li><a class="arrow" href="http://egiyebangla.online">Matrimaa</a> </li>
+<li><a class="arrow" href="https://www.wbhealth.gov.in/JeevanShaktiOnline.html">Jeevan Shakti Online</a> </li>
+<li><a class="arrow" href="http://www.wbnrhm.in">GIS based Informaion</a> </li>
+<li><a class="arrow" href="http://14.139.216.50">HRMIS</a> </li>
+<li><a class="arrow" href="https://ccm.wbhealth.gov.in/">Court Case Monitoring</a> </li>
+<li><a class="arrow" href="http://pgms.wbhealth.gov.in">PGMS (Public Grievance Monitoring System)</a> </li>
+<li><a class="arrow" href="http://nursetrns.wbhealth.gov.in:8006/">Nursing Services</a> </li>
+<li><a class="arrow" href="http://skms.wbhealth.gov.in:8010/">Suswasthya Management System</a> </li>
+<li><a class="arrow" href="http://kyd.wbhealth.gov.in:8181/">Know Your Doctor</a> </li>
+<li><a class="arrow" href="https://ce.wbhealth.gov.in/kpi">Key Performance Indicator (KPI)</a> </li>
+<li><a class="arrow" href="http://mdsr.wbhealth.gov.in:6006/">Maternal Death Surveillance &amp; Response </a> </li>
+<li><a class="arrow" href="http://vvd.wbhealth.gov.in:8080/">Vector Borne Disease Monitoring System</a> </li>
+<li><a class="arrow" href="http://kyas.wbhealth.gov.in:8182/">Know Your Officer (Non Medical)</a> </li>
 </div>
 </div>
 <br clear="all"/>
