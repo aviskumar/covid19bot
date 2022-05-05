@@ -441,6 +441,7 @@ setInterval(GetClock,1000);
 <li><a class="arrow" href="http://exchange.wbhealth.gov.in:8032">EXCHANGE</a> </li>
 <li><a class="arrow" href=" http://pcpndt.silpasathi.in/aspx/signin.aspx">Online PCPNDT License</a> </li>
 <li><a class="arrow" href=" http://bloodbank.silpasathi.in/aspx/signin.aspx">Online Blood Bank License</a> </li>
+<li><a class="arrow" href="https://www.wbhealth.gov.in/#">JANMA MRITYU TATHYA </a> <img src="https://www.wbhealth.gov.in/images/Blinking_New.gif" width="30"/></li>
 <li><a class="arrow" href="https://drswb.wbhealth.gov.in/">Store Management Information System</a> </li>
 <li><a class="arrow" href="javascript:;">Hospital Management Information System</a> </li>
 <li><a class="arrow" href="http://rotto.wbhealth.gov.in:6001">Organ Transplant Registration</a> </li>
@@ -524,7 +525,7 @@ setInterval(GetClock,1000);
 <div class="m_content_line">
 <div class="middle_content">
 <h1 style="padding: 0;text-align: left;">
-<img src="https://www.wbhealth.gov.in/images/doc_sign.gif"/>Corona Bulletin                    </h1>
+<img src="https://www.wbhealth.gov.in/images/doc_sign.gif">Corona Bulletin                    </img></h1>
 <div>
 <br/>
 <form accept-charset="utf-8" action="https://www.wbhealth.gov.in/pages/corona/bulletin" method="post"> <table width="100%">
