@@ -51,7 +51,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <h1 class="title" id="page-title">Error</h1>        The website encountered an unexpected error. Please try again later.                  <div id="messages"><div class="section clearfix">
 <div class="messages error">
 <h2 class="element-invisible">Error message</h2>
-<em class="placeholder">PDOException</em>: SQLSTATE[08004] [1040] Too many connections in <em class="placeholder">lock_may_be_available()</em> (line <em class="placeholder">167</em> of <em class="placeholder">/var/www/html/hfws/includes/lock.inc</em>).</div>
+<em class="placeholder">PDOException</em>: SQLSTATE[HY000] [1040] Too many connections in <em class="placeholder">lock_may_be_available()</em> (line <em class="placeholder">167</em> of <em class="placeholder">/var/www/html/hfws/includes/lock.inc</em>).</div>
 </div></div> <!-- /.section, /#messages -->
 </div></div> <!-- /.section, /#content -->
 </div></div> <!-- /#main, /#main-wrapper -->
