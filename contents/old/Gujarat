@@ -110,9 +110,9 @@
 </nav>
 </header>
 <form action="./DrillDownCharts.aspx" class="form-wrapper" id="aspnetForm" method="post" name="aspnetForm">
-<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="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"/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="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"/>
 <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="4501150A"/>
-<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="jWPw4iI4UYysKzMVl41KuhJnF1J/qxTZziN389bygRJnvB4xkNvupNr9ozwd1t4NuMGQwczTkKx2FtqiB7DeqVKOp2+P9cnbcM2VkZeb1qFUj4yJuEtaob5Ic8SlADmW"/>
+<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="l5oYZRQ8iRCGlFpR1l7MfJoMLi3W7QALXOxNZwuSmCbTSrMZURpNIs/do4Tsq6SaK2xEBoC8Fp3sQ2zrmcxTwhirAB2UDb9ies6OnHCsPAWBgOsmkZFDj7/5glQsK8s5"/>
 <div class="main-wrapper">
 <div class="container-fluid">
 <div class="row">
@@ -136,7 +136,7 @@ $(document).ready(function() {
 		title: { text: '' }, 
 		xAxis: { categories: ['Ahmedabad', 'Amreli', 'Anand', 'Aravalli', 'Banaskantha', 'Bharuch', 'Bhavnagar', 'Botad', 'Chhota Udaipur', 'Dahod', 'Dang', 'Devbhoomi Dwarka', 'Gandhinagar', 'Gir Somnath', 'Jamnagar', 'Junagadh', 'Kutch', 'Kheda', 'Mahisagar', 'Mehsana', 'Morbi', 'Narmada', 'Navsari', 'Panchmahal', 'Patan', 'Porbandar', 'Rajkot', 'Sabarkantha', 'Surat', 'Surendranagar', 'Tapi', 'Vadodara', 'Valsad'], title: { style: { color: '#999', fontWeight: 'bold' }, text: 'District' } }, 
 		yAxis: { allowDecimals: false, title: { style: { color: '#999', fontWeight: 'bold' }, text: 'Patient Count' } }, 
-		series: [{ data: [[385172], [12903], [15470], [5743], [18336], [17288], [29244], [2356], [3756], [11300], [1259], [5182], [35181], [9749], [41837], [22756], [19014], [14700], [8867], [31013], [10768], [6640], [11904], [13549], [16242], [4184], [84602], [11765], [205004], [10084], [5802], [140354], [12849]], name: 'Confirmed Positive Cases' }, { data: [[6675973], [838757], [830271], [543804], [1263396], [734285], [1551864], [346472], [369788], [986710], [114234], [345042], [1139337], [514742], [1169395], [1392706], [1088154], [864053], [528022], [1078311], [527338], [377597], [664049], [783215], [713624], [362645], [2620627], [735129], [8136604], [748814], [377697], [2593325], [839757]], name: 'Cases Tested for COVID19' }, { data: [[381431], [12798], [15417], [5662], [18170], [17136], [28880], [2308], [3718], [11254], [1241], [5093], [34941], [9681], [41317], [22484], [18867], [14644], [8792], [30813], [10673], [6625], [11861], [13466], [16113], [4159], [83801], [11602], [202915], [9945], [5772], [139391], [12758]], name: 'Patients Recovered' }, { data: [[33], [80], [0], [0], [0], [0], [118], [0], [0], [0], [389], [20], [4], [4], [71], [0], [7], [87], [0], [0], [0], [0], [38], [0], [0], [5], [49], [30], [550], [0], [46], [45], [14]], name: 'People Under Quarantine' }, { data: [[3619], [105], [53], [81], [166], [152], [362], [48], [38], [46], [18], [89], [226], [67], [520], [272], [146], [55], [75], [194], [95], [15], [41], [83], [129], [25], [798], [163], [2080], [139], [30], [921], [90]], name: 'Total Deaths' }]
+		series: [{ data: [[385187], [12903], [15470], [5743], [18336], [17288], [29244], [2356], [3756], [11300], [1259], [5182], [35184], [9749], [41837], [22756], [19014], [14700], [8867], [31013], [10768], [6640], [11904], [13549], [16242], [4184], [84603], [11765], [205004], [10084], [5802], [140358], [12849]], name: 'Confirmed Positive Cases' }, { data: [[6678183], [839105], [830687], [544447], [1264469], [734528], [1552614], [346520], [369790], [987192], [114290], [345138], [1140221], [514824], [1170158], [1394341], [1088202], [864450], [528268], [1079679], [527400], [378056], [664633], [783349], [714260], [363080], [2621954], [735416], [8137311], [749324], [378212], [2594003], [840125]], name: 'Cases Tested for COVID19' }, { data: [[381450], [12798], [15417], [5662], [18170], [17136], [28880], [2308], [3718], [11254], [1241], [5093], [34944], [9681], [41317], [22484], [18867], [14645], [8792], [30813], [10673], [6625], [11862], [13466], [16113], [4159], [83801], [11602], [202915], [9945], [5772], [139400], [12758]], name: 'Patients Recovered' }, { data: [[33], [80], [0], [0], [0], [0], [118], [0], [0], [0], [389], [20], [4], [4], [71], [0], [7], [87], [0], [0], [0], [0], [38], [0], [0], [5], [49], [30], [550], [0], [46], [45], [14]], name: 'People Under Quarantine' }, { data: [[3619], [105], [53], [81], [166], [152], [362], [48], [38], [46], [18], [89], [226], [67], [520], [272], [146], [55], [75], [194], [95], [15], [41], [83], [129], [25], [798], [163], [2080], [139], [30], [921], [90]], name: 'Total Deaths' }]
 	});
 });
 </script>
@@ -256,16 +256,16 @@ $(document).ready(function() {
 </thead>
 <tr>
 <td class="text-left">Ahmedabad</td>
-<td class="text-right">385172</td>
-<td class="text-right">6675973</td>
-<td class="text-right">381431</td>
+<td class="text-right">385187</td>
+<td class="text-right">6678183</td>
+<td class="text-right">381450</td>
 <td class="text-right">33</td>
 <td class="text-right">3619</td>
 </tr>
 <tr>
 <td class="text-left">Amreli</td>
 <td class="text-right">12903</td>
-<td class="text-right">838757</td>
+<td class="text-right">839105</td>
 <td class="text-right">12798</td>
 <td class="text-right">80</td>
 <td class="text-right">105</td>
@@ -273,7 +273,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Anand</td>
 <td class="text-right">15470</td>
-<td class="text-right">830271</td>
+<td class="text-right">830687</td>
 <td class="text-right">15417</td>
 <td class="text-right">0</td>
 <td class="text-right">53</td>
@@ -281,7 +281,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Aravalli</td>
 <td class="text-right">5743</td>
-<td class="text-right">543804</td>
+<td class="text-right">544447</td>
 <td class="text-right">5662</td>
 <td class="text-right">0</td>
 <td class="text-right">81</td>
@@ -289,7 +289,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Banaskantha</td>
 <td class="text-right">18336</td>
-<td class="text-right">1263396</td>
+<td class="text-right">1264469</td>
 <td class="text-right">18170</td>
 <td class="text-right">0</td>
 <td class="text-right">166</td>
@@ -297,7 +297,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Bharuch</td>
 <td class="text-right">17288</td>
-<td class="text-right">734285</td>
+<td class="text-right">734528</td>
 <td class="text-right">17136</td>
 <td class="text-right">0</td>
 <td class="text-right">152</td>
@@ -305,7 +305,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Bhavnagar</td>
 <td class="text-right">29244</td>
-<td class="text-right">1551864</td>
+<td class="text-right">1552614</td>
 <td class="text-right">28880</td>
 <td class="text-right">118</td>
 <td class="text-right">362</td>
@@ -313,7 +313,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Botad</td>
 <td class="text-right">2356</td>
-<td class="text-right">346472</td>
+<td class="text-right">346520</td>
 <td class="text-right">2308</td>
 <td class="text-right">0</td>
 <td class="text-right">48</td>
@@ -321,7 +321,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Chhota Udaipur</td>
 <td class="text-right">3756</td>
-<td class="text-right">369788</td>
+<td class="text-right">369790</td>
 <td class="text-right">3718</td>
 <td class="text-right">0</td>
 <td class="text-right">38</td>
@@ -329,7 +329,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Dahod</td>
 <td class="text-right">11300</td>
-<td class="text-right">986710</td>
+<td class="text-right">987192</td>
 <td class="text-right">11254</td>
 <td class="text-right">0</td>
 <td class="text-right">46</td>
@@ -337,7 +337,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Dang</td>
 <td class="text-right">1259</td>
-<td class="text-right">114234</td>
+<td class="text-right">114290</td>
 <td class="text-right">1241</td>
 <td class="text-right">389</td>
 <td class="text-right">18</td>
@@ -345,23 +345,23 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Devbhoomi Dwarka</td>
 <td class="text-right">5182</td>
-<td class="text-right">345042</td>
+<td class="text-right">345138</td>
 <td class="text-right">5093</td>
 <td class="text-right">20</td>
 <td class="text-right">89</td>
 </tr>
 <tr>
 <td class="text-left">Gandhinagar</td>
-<td class="text-right">35181</td>
-<td class="text-right">1139337</td>
-<td class="text-right">34941</td>
+<td class="text-right">35184</td>
+<td class="text-right">1140221</td>
+<td class="text-right">34944</td>
 <td class="text-right">4</td>
 <td class="text-right">226</td>
 </tr>
 <tr>
 <td class="text-left">Gir Somnath</td>
 <td class="text-right">9749</td>
-<td class="text-right">514742</td>
+<td class="text-right">514824</td>
 <td class="text-right">9681</td>
 <td class="text-right">4</td>
 <td class="text-right">67</td>
@@ -369,7 +369,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Jamnagar</td>
 <td class="text-right">41837</td>
-<td class="text-right">1169395</td>
+<td class="text-right">1170158</td>
 <td class="text-right">41317</td>
 <td class="text-right">71</td>
 <td class="text-right">520</td>
@@ -377,7 +377,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Junagadh</td>
 <td class="text-right">22756</td>
-<td class="text-right">1392706</td>
+<td class="text-right">1394341</td>
 <td class="text-right">22484</td>
 <td class="text-right">0</td>
 <td class="text-right">272</td>
@@ -385,7 +385,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Kutch</td>
 <td class="text-right">19014</td>
-<td class="text-right">1088154</td>
+<td class="text-right">1088202</td>
 <td class="text-right">18867</td>
 <td class="text-right">7</td>
 <td class="text-right">146</td>
@@ -393,15 +393,15 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Kheda</td>
 <td class="text-right">14700</td>
-<td class="text-right">864053</td>
-<td class="text-right">14644</td>
+<td class="text-right">864450</td>
+<td class="text-right">14645</td>
 <td class="text-right">87</td>
 <td class="text-right">55</td>
 </tr>
 <tr>
 <td class="text-left">Mahisagar</td>
 <td class="text-right">8867</td>
-<td class="text-right">528022</td>
+<td class="text-right">528268</td>
 <td class="text-right">8792</td>
 <td class="text-right">0</td>
 <td class="text-right">75</td>
@@ -409,7 +409,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Mehsana</td>
 <td class="text-right">31013</td>
-<td class="text-right">1078311</td>
+<td class="text-right">1079679</td>
 <td class="text-right">30813</td>
 <td class="text-right">0</td>
 <td class="text-right">194</td>
@@ -417,7 +417,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Morbi</td>
 <td class="text-right">10768</td>
-<td class="text-right">527338</td>
+<td class="text-right">527400</td>
 <td class="text-right">10673</td>
 <td class="text-right">0</td>
 <td class="text-right">95</td>
@@ -425,7 +425,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Narmada</td>
 <td class="text-right">6640</td>
-<td class="text-right">377597</td>
+<td class="text-right">378056</td>
 <td class="text-right">6625</td>
 <td class="text-right">0</td>
 <td class="text-right">15</td>
@@ -433,15 +433,15 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Navsari</td>
 <td class="text-right">11904</td>
-<td class="text-right">664049</td>
-<td class="text-right">11861</td>
+<td class="text-right">664633</td>
+<td class="text-right">11862</td>
 <td class="text-right">38</td>
 <td class="text-right">41</td>
 </tr>
 <tr>
 <td class="text-left">Panchmahal</td>
 <td class="text-right">13549</td>
-<td class="text-right">783215</td>
+<td class="text-right">783349</td>
 <td class="text-right">13466</td>
 <td class="text-right">0</td>
 <td class="text-right">83</td>
@@ -449,7 +449,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Patan</td>
 <td class="text-right">16242</td>
-<td class="text-right">713624</td>
+<td class="text-right">714260</td>
 <td class="text-right">16113</td>
 <td class="text-right">0</td>
 <td class="text-right">129</td>
@@ -457,15 +457,15 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Porbandar</td>
 <td class="text-right">4184</td>
-<td class="text-right">362645</td>
+<td class="text-right">363080</td>
 <td class="text-right">4159</td>
 <td class="text-right">5</td>
 <td class="text-right">25</td>
 </tr>
 <tr>
 <td class="text-left">Rajkot</td>
-<td class="text-right">84602</td>
-<td class="text-right">2620627</td>
+<td class="text-right">84603</td>
+<td class="text-right">2621954</td>
 <td class="text-right">83801</td>
 <td class="text-right">49</td>
 <td class="text-right">798</td>
@@ -473,7 +473,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Sabarkantha</td>
 <td class="text-right">11765</td>
-<td class="text-right">735129</td>
+<td class="text-right">735416</td>
 <td class="text-right">11602</td>
 <td class="text-right">30</td>
 <td class="text-right">163</td>
@@ -481,7 +481,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Surat</td>
 <td class="text-right">205004</td>
-<td class="text-right">8136604</td>
+<td class="text-right">8137311</td>
 <td class="text-right">202915</td>
 <td class="text-right">550</td>
 <td class="text-right">2080</td>
@@ -489,7 +489,7 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Surendranagar</td>
 <td class="text-right">10084</td>
-<td class="text-right">748814</td>
+<td class="text-right">749324</td>
 <td class="text-right">9945</td>
 <td class="text-right">0</td>
 <td class="text-right">139</td>
@@ -497,23 +497,23 @@ $(document).ready(function() {
 <tr>
 <td class="text-left">Tapi</td>
 <td class="text-right">5802</td>
-<td class="text-right">377697</td>
+<td class="text-right">378212</td>
 <td class="text-right">5772</td>
 <td class="text-right">46</td>
 <td class="text-right">30</td>
 </tr>
 <tr>
 <td class="text-left">Vadodara</td>
-<td class="text-right">140354</td>
-<td class="text-right">2593325</td>
-<td class="text-right">139391</td>
+<td class="text-right">140358</td>
+<td class="text-right">2594003</td>
+<td class="text-right">139400</td>
 <td class="text-right">45</td>
 <td class="text-right">921</td>
 </tr>
 <tr>
 <td class="text-left">Valsad</td>
 <td class="text-right">12849</td>
-<td class="text-right">839757</td>
+<td class="text-right">840125</td>
 <td class="text-right">12758</td>
 <td class="text-right">14</td>
 <td class="text-right">90</td>
