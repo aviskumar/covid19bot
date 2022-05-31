@@ -546,6 +546,10 @@ setInterval(GetClock,1000);
 <td width="30%">Date</td>
 </tr>
 <tr align="center" bgcolor="#e5eef3" style="font-size: 12px;border-bottom: solid #666 1px;">
+<td bgcolor="#AABFCF" style="padding-left: 5px;"><a href="https://www.wbhealth.gov.in/uploaded_files/corona/IMG-20220531-WA0031.jpg" target="_blank">2019 nCoV bulletin as on 31st May, 2022</a></td>
+<td bgcolor="#AABFCF" style="padding-left: 5px;">31/05/2022</td>
+</tr>
+<tr align="center" bgcolor="#e5eef3" style="font-size: 12px;border-bottom: solid #666 1px;">
 <td bgcolor="#AABFCF" style="padding-left: 5px;"><a href="https://www.wbhealth.gov.in/uploaded_files/corona/IMG-20220530-WA0039.jpg" target="_blank">2019 nCoV bulletin as on 30th May, 2022</a></td>
 <td bgcolor="#AABFCF" style="padding-left: 5px;">30/05/2022</td>
 </tr>
