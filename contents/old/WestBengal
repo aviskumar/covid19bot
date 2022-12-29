@@ -439,6 +439,7 @@ setInterval(GetClock,1000);
 <div id="online" style="background-color: #000; color: #fff;padding: 10px 3px 10px 10px;"><strong>E-GOVERNANCE : </strong><span id="txtHint"></span></div>
 <div id="online" style="max-height:635px;overflow:auto;">
 <li><a class="arrow" href="https://janma-mrityutathya.wb.gov.in">JANMA MRITYU TATHYA </a> <img src="https://www.wbhealth.gov.in/images/Blinking_New.gif" width="30"/></li>
+<li><a class="arrow" href="https://www.silpasathi.in/">Online Application through single window portal</a> </li>
 <li><a class="arrow" href="http://exchange.wbhealth.gov.in:8032">EXCHANGE</a> </li>
 <li><a class="arrow" href=" http://pcpndt.silpasathi.in/aspx/signin.aspx">Online PCPNDT License</a> </li>
 <li><a class="arrow" href=" http://bloodbank.silpasathi.in/aspx/signin.aspx">Online Blood Bank License</a> </li>
