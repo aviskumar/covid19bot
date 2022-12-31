@@ -64,7 +64,7 @@ setInterval(GetClock,1000);
 <div id="farouter">
 <div id="hnav">
 <ul id="navlist">
-<li id="clockbox" style="color: #fff;font-weight: bold;">Dec 31, 2022</li>    |
+<li id="clockbox" style="color: #fff;font-weight: bold;">Jan 01, 2023</li>    |
 														<li><a href="https://mail.wbhealth.gov.in">CHECK MAIL</a></li> |
 							<li><a href="https://www.wbhealth.gov.in/contents/right_to_information">RTI</a></li> |
 							<li><a href="https://www.wbhealth.gov.in/pages/gallery">Gallery</a></li> |
@@ -547,6 +547,10 @@ setInterval(GetClock,1000);
 <tr align="center" bgcolor="#006699" style="color: #FFF;">
 <td width="70%">Title</td>
 <td width="30%">Date</td>
+</tr>
+<tr align="center" bgcolor="#e5eef3" style="font-size: 12px;border-bottom: solid #666 1px;">
+<td bgcolor="#AABFCF" style="padding-left: 5px;"><a href="https://www.wbhealth.gov.in/uploaded_files/corona/IMG-20221231-WA0031.jpg" target="_blank">2019 nCoV bulletin as on 31st December, 2022</a></td>
+<td bgcolor="#AABFCF" style="padding-left: 5px;">31/12/2022</td>
 </tr>
 <tr align="center" bgcolor="#e5eef3" style="font-size: 12px;border-bottom: solid #666 1px;">
 <td bgcolor="#AABFCF" style="padding-left: 5px;"><a href="https://www.wbhealth.gov.in/uploaded_files/corona/IMG-20221230-WA0065.jpg" target="_blank">2019 nCoV bulletin as on 30th December, 2022</a></td>
